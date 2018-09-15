@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vasya"
+    },
+    {
+      "id": 2,
+      "name": "Petya"
+    }
+  ],
+  "goods": [
+    {
+      "id": 1,
+      "name": "Трусы",
+      "price": 255
+    },
+    {
+      "id": 2,
+      "name": "Майки",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "name": "Носки",
+      "price": 150
+    },
+    {
+      "id": 4,
+      "name": "Шапки",
+      "price": 567
+    }
+  ],
+  "cart": [
+    {
+      "id": "2",
+      "quantity": -1,
+      "name": "Майки",
+      "price": "100"
+    },
+    {
+      "id": "1",
+      "quantity": -3,
+      "name": "Трусы",
+      "price": "255"
+    }
+  ]
+}
