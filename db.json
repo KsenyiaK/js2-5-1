@@ -1,48 +1,289 @@
 {
-  "users": [
+  "comment": [
     {
-      "id": 1,
-      "name": "Vasya"
+      "id": 3
     },
     {
-      "id": 2,
-      "name": "Petya"
-    }
-  ],
-  "goods": [
-    {
-      "id": 1,
-      "name": "Трусы",
-      "price": 255
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "insert",
+      "id": 4
     },
     {
-      "id": 2,
-      "name": "Майки",
-      "price": 100
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "delete",
+      "id": 5
     },
     {
-      "id": 3,
-      "name": "Носки",
-      "price": 150
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "insert",
+      "id": 6
     },
     {
-      "id": 4,
-      "name": "Шапки",
-      "price": 567
-    }
-  ],
-  "cart": [
-    {
-      "id": "2",
-      "quantity": -1,
-      "name": "Майки",
-      "price": "100"
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "insert",
+      "id": 7
     },
     {
-      "id": "1",
-      "quantity": -3,
-      "name": "Трусы",
-      "price": "255"
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "delete",
+      "id": 8
+    },
+    {
+      "class": "insert",
+      "id": 9
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "insert",
+      "id": 10
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "delete",
+      "id": 11
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "insert",
+      "id": 12
+    },
+    {
+      "class": "insert",
+      "id": 13
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "delete",
+      "id": 14
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "delete",
+      "id": 15
+    },
+    {
+      "class": "delete",
+      "id": 16
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "insert",
+      "id": 17
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "delete",
+      "id": 18
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "insert",
+      "id": 19
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "id": 20
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "send",
+      "id": 21
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "",
+      "id": 22
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": " ",
+      "id": 23
+    },
+    {
+      "id": "null",
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "insert"
+    },
+    {
+      "class": "delete",
+      "id": 24
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "delete",
+      "id": 25
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "delete",
+      "id": 26
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "delete",
+      "id": 27
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": " ",
+      "id": 28
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "insert",
+      "id": 29
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "delete",
+      "id": 30
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "null",
+      "id": 31
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "insert",
+      "id": 32
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "insert",
+      "id": 33
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "delete",
+      "id": 34
+    },
+    {
+      "class": "insert",
+      "id": 35
+    },
+    {
+      "class": "delete",
+      "id": 36
+    },
+    {
+      "text": "textarea",
+      "class": "insert",
+      "id": 37
+    },
+    {
+      "text": "textarea",
+      "class": "delete",
+      "id": 38
+    },
+    {
+      "class": "delete",
+      "id": 39
+    },
+    {
+      "text": " ",
+      "class": "insert",
+      "id": 40
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "delete",
+      "id": 41
+    },
+    {
+      "text": {
+        "0": {},
+        "length": 1
+      },
+      "class": "delete",
+      "id": 42
     }
   ]
 }
